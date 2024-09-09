@@ -1,0 +1,36 @@
+Sure! Here's the updated JSON file without the image URLs:
+
+```json
+{
+    "results": {
+        "books": [
+            {
+                "title": "The Silent Patient",
+                "description": "A psychological thriller about a woman who stops speaking after shooting her husband."
+            },
+            {
+                "title": "Where the Crawdads Sing",
+                "description": "A woman who survived alone in the marsh becomes a murder suspect."
+            },
+            {
+                "title": "The Testaments",
+                "description": "In this sequel to 'The Handmaid's Tale', old secrets bring three women together."
+            },
+            {
+                "title": "The Institute",
+                "description": "Children with special talents are abducted and sequestered in a sinister institution."
+            },
+            {
+                "title": "The Water Dancer",
+                "description": "A young man who was gifted with a mysterious power becomes part of the Underground Railroad."
+            },
+            {
+                "title": "The Dutch House",
+                "description": "A brother and sister are thrown back into the past when they return to their childhood home."
+            }
+        ]
+    }
+}
+```
+
+You can save this content in a file named `data.json` and use it with your JavaScript code. If you need any further modifications or assistance, feel free to ask!
